@@ -177,3 +177,6 @@ And submit the form
 Then their account should be created
 And they should receive a confirmation email.
 By writing detailed user stories with acceptance criteria, you can ensure that each feature is well-defined and meets the user's needs. This also helps in planning and tracking the development progress effectively.
+
+
+<img width="860" alt="Screenshot 2024-05-22 075834" src="https://github.com/SHAMMA6/Personal_Financ_Manager/assets/167346977/54ab44e7-687a-4da3-b0fc-267ca1cf3b78">
