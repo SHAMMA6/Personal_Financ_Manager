@@ -1,4 +1,4 @@
-User Stories for Personal Finance Manager
+User Stories 
 
 User Authentication and Profile Management
 User Registration
